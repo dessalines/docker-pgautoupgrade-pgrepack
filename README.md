@@ -2,6 +2,8 @@
 
 Adds the [pg_repack](https://github.com/reorg/pg_repack) utility to the [pgautoupgrade](https://github.com/pgautoupgrade/docker-pgautoupgrade) docker image.
 
+[Docker hub](https://hub.docker.com/r/dessalines/docker-pgautoupgrade-pgrepack)
+
 ## Usage
 
 `docker pull dessalines/docker-pgautoupgrade-pgrepack:TAG`
